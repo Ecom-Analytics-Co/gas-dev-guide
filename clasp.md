@@ -102,3 +102,9 @@ The default `.claspignore` file in the Apps Script Starter kit will push all the
 and ignore all the other files.
 
 More info: [Ignore File (.claspignore)](https://github.com/google/clasp#ignore-file-claspignore)
+
+---
+
+## TypeScript
+
+See [clasp/docs/typescript.md](https://github.com/google/clasp/blob/4464f73465dd9697ae22fab81c42370ca98232c6/docs/typescript.md)
